@@ -1,1 +1,2 @@
-# 3x3-scrambler
+#SpeedCubing setup
+In this project i have created a python gui which has 3x3 random move scrambler made for stackmat timers where we can type in the times we get. This part is done using Tkinter Gui in Python.Along with this is an Arduino code which is used to run a diy 60sec stackmat timer with scrambling and inspection time. using the 4 digit 7segment display and an IR Sensor. This mimicks a setup which is much more costlier than this at a cheaper price.
